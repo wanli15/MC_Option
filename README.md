@@ -8,4 +8,4 @@
  Possible improvement in further:
  1. add more model like GARCH; 2. price more options;3. whole design; 4. change the double simultion times to long/ unsized long type;
 
- Note: for c++ finance project created by WanLi;
+
